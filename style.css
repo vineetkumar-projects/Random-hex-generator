@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: aqua;
+}
+
+.container {
+    margin: auto;
+    margin-top: 110px;
+    width: 50%;
+    height: 50px;
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#btn {
+    text-decoration: none;
+    background-color: aquamarine;
+    color: black;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    margin-left: 638px;
+}
